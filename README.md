@@ -2,7 +2,7 @@
 __________________________________________________
 dlrjsldlfma @ GitHub
 
-*THIS PAGE IS NOT DONE YET.*
+THIS PROJECT IS NOT DONE.
 
 Visit [github.com] to see more
 __________________________________________________
